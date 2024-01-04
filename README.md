@@ -1,4 +1,4 @@
-# Entornos Virtuales
+# Portafolio de Proyectos académicos
 
 Unos apuntes para una materia de entornos virtuales de UVM GDL Sur
 
